@@ -4,3 +4,4 @@ config_temp.php
 config.php
 /cache
 /infusions/downloads/files
+install.php
