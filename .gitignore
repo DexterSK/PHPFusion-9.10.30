@@ -7,3 +7,4 @@ config.php
 install.php
 includes/gateway/flood/ctrl
 /infusions/downloads/images
+/themes/pyre-2
