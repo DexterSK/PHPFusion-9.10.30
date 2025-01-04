@@ -48,7 +48,8 @@ class SiteLinks {
     private static $instances = [];
     private static $primary_cache_data = [];
     private static $optional_cache_data = [];
-
+    // FIX: Creation of dynamic property PHPFusion\SiteLinks::$menu_options is deprecated
+    private $menu_options = [];
     /**
      * Get Site Links Position Options
      *
