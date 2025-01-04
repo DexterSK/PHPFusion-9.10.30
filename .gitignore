@@ -6,3 +6,4 @@ config.php
 /infusions/downloads/files
 install.php
 includes/gateway/flood/ctrl
+/infusions/downloads/images
