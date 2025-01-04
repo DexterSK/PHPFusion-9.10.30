@@ -1,32 +1,32 @@
 <?php
-$locale['400'] = "Informácie o serveri";
+$locale['SRV_400'] = "Informácie o serveri";
 //General
-$locale['401'] = "Všeobecné";
-$locale['402'] = "Serverový softvér";
-$locale['403'] = "Webserver";
-$locale['404'] = "PHP verzia";
-$locale['405'] = "PHP rozhranie";
-$locale['406'] = "Verzia MySQL servera";
-$locale['406a'] = "Ovládač databázy";
-$locale['407'] = "Verzia PHPFusionu";
-$locale['408'] = "Prefix databázy";
-$locale['409'] = "Prefix cookie";
-$locale['410'] = "Prehliadač a OS";
-$locale['411'] = "Preložil: RobiNN (robinn@php-fusion.eu)"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['SRV_401'] = "Všeobecné";
+$locale['SRV_402'] = "Serverový softvér";
+$locale['SRV_403'] = "Webserver";
+$locale['SRV_404'] = "PHP verzia";
+$locale['SRV_405'] = "PHP rozhranie";
+$locale['SRV_406'] = "Verzia MySQL servera";
+$locale['SRV_406a'] = "Ovládač databázy";
+$locale['SRV_407'] = "Verzia PHPFusionu";
+$locale['SRV_408'] = "Prefix databázy";
+$locale['SRV_409'] = "Prefix cookie";
+$locale['SRV_410'] = "Prehliadač a OS";
+$locale['SRV_411'] = "Preložil: RobiNN (robinn@php-fusion.eu), DexterSK (dekstersk@gmail.com)"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
-$locale['420'] = "Nastavenia PHP";
-$locale['423'] = "Bezpečnostný mód";
-$locale['424'] = "RegisterGlobals";
-$locale['425'] = "Podpora pre";
-$locale['426'] = "Nahrávanie súborov (max. veľkosť súboru)";
-$locale['428'] = "Zobraziť chybové hlášky";
-$locale['429'] = "Zakázané funkcie";
-$locale['430'] = "n/a";
-$locale['431'] = "verzia";
+$locale['SRV_420'] = "Nastavenia PHP";
+$locale['SRV_423'] = "Bezpečnostný mód";
+$locale['SRV_424'] = "RegisterGlobals";
+$locale['SRV_425'] = "Podpora pre";
+$locale['SRV_426'] = "Nahrávanie súborov (max. veľkosť súboru)";
+$locale['SRV_428'] = "Zobraziť chybové hlášky";
+$locale['SRV_429'] = "Zakázané funkcie";
+$locale['SRV_430'] = "n/a";
+$locale['SRV_431'] = "verzia";
 //Write permission
-$locale['440'] = "Oprávnenia zložky";
-$locale['441'] = "Zapisovateľné";
-$locale['442'] = "Nezapisovateľné";
+$locale['SRV_440'] = "Oprávnenia zložky";
+$locale['SRV_441'] = "Zapisovateľné";
+$locale['SRV_442'] = "Nezapisovateľné";
 //PHPinfo
-$locale['450'] = "Podrobnosti";
-$locale['451'] = "Nie je možné získať údaje. Skontrolujte, či nie je funkcia phpinfo() vypnutá.";
+$locale['SRV_450'] = "Podrobnosti";
+$locale['SRV_451'] = "Nie je možné získať údaje. Skontrolujte, či nie je funkcia phpinfo() vypnutá.";

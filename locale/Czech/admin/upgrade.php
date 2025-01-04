@@ -18,3 +18,4 @@ $locale['U_015'] = "Aktualizace nemohla být nainstalována. Zkuste to prosím p
 $locale['U_016'] = "Aktualizovat překlady";
 $locale['U_017'] = "Překlady byly úspěšně aktualizovány.";
 $locale['U_018'] = "Stahování jazykového balíčku %s."; // %s will be replaced with language name
+$locale['U_019'] = "Aktuální verze: %s";

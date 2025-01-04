@@ -1,32 +1,32 @@
 <?php
-$locale['400'] = "Informace o serveru";
+$locale['SRV_400'] = "Informace o serveru";
 //General
-$locale['401'] = "Všeobecné";
-$locale['402'] = "Software Serveru";
-$locale['403'] = "Software Webserveru";
-$locale['404'] = "PHP verze";
-$locale['405'] = "PHP rozhraní";
-$locale['406'] = "MySQL Server verze";
-$locale['406a'] = "Ovladač databáze";
-$locale['407'] = "PHPFusion verze";
-$locale['408'] = "Prefix databáze";
-$locale['409'] = "Prefix Cookie";
-$locale['410'] = "Webový prohlížeč a OS";
-$locale['411'] = "Přeložil: RobiNN (robinn@php-fusion.eu)"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
+$locale['SRV_401'] = "Všeobecné";
+$locale['SRV_402'] = "Software Serveru";
+$locale['SRV_403'] = "Software Webserveru";
+$locale['SRV_404'] = "PHP verze";
+$locale['SRV_405'] = "PHP rozhraní";
+$locale['SRV_406'] = "MySQL Server verze";
+$locale['SRV_406a'] = "Ovladač databáze";
+$locale['SRV_407'] = "PHPFusion verze";
+$locale['SRV_408'] = "Prefix databáze";
+$locale['SRV_409'] = "Prefix Cookie";
+$locale['SRV_410'] = "Webový prohlížeč a OS";
+$locale['SRV_411'] = "Přeložil: RobiNN (robinn@php-fusion.eu), DexterSK (dekstersk@gmail.com)"; // If you helped with the translation, you can write your name here. Management can update credits based on recent contributions.
 //PHP settings
-$locale['420'] = "PHP nastavení";
-$locale['423'] = "Bezpečnostní mód";
-$locale['424'] = "RegisterGlobals";
-$locale['425'] = "Podpora pro";
-$locale['426'] = "Nahrávání souborů (max. velikost souboru)";
-$locale['428'] = "Zobrazení chyb";
-$locale['429'] = "Vypnuté funkce";
-$locale['430'] = "n/a";
-$locale['431'] = "verze";
+$locale['SRV_420'] = "PHP nastavení";
+$locale['SRV_423'] = "Bezpečnostní mód";
+$locale['SRV_424'] = "RegisterGlobals";
+$locale['SRV_425'] = "Podpora pro";
+$locale['SRV_426'] = "Nahrávání souborů (max. velikost souboru)";
+$locale['SRV_428'] = "Zobrazení chyb";
+$locale['SRV_429'] = "Vypnuté funkce";
+$locale['SRV_430'] = "n/a";
+$locale['SRV_431'] = "verze";
 //Write permission
-$locale['440'] = "Práva adresářů";
-$locale['441'] = "Zapisovatelný";
-$locale['442'] = "Není zapisovatelný";
+$locale['SRV_440'] = "Práva adresářů";
+$locale['SRV_441'] = "Zapisovatelný";
+$locale['SRV_442'] = "Není zapisovatelný";
 //PHPinfo
-$locale['450'] = "Podrobnosti";
-$locale['451'] = "Nelze získat data. Zkontrolovat zda je funkce phpinfo() vypnutá?";
+$locale['SRV_450'] = "Podrobnosti";
+$locale['SRV_451'] = "Nelze získat data. Zkontrolovat zda je funkce phpinfo() vypnutá?";

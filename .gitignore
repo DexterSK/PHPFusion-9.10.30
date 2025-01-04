@@ -3,3 +3,4 @@ config_temp.php
 .htaccess
 config.php
 /cache
+/infusions/downloads/files
