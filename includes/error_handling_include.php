@@ -20,7 +20,7 @@
 defined('IN_FUSION') || exit;
 
 if (fusion_get_settings('error_logging_enabled') == 1) {
-    error_reporting(E_ALL ^ E_STRICT);
+    error_reporting(E_ALL ^ E_DEPRECATED);
     set_error_handler("set_error");
 }
 
