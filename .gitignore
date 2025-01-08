@@ -28,3 +28,5 @@ includes/gateway/flood/ctrl
 /themes/admin_themes/Atom-XCP
 /themes/admin_themes/Ares
 /themes/admin_themes/AdminLTE3
+install.php
+includes/classes/PHPFusion/Update.php
